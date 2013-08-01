@@ -1,4 +1,4 @@
-Sublime Text - Mustang Theme
+Sublime Text - Mustang Color Scheme
 ============================
 
 Mustang colors scheme for Sublime Text, forked from https://github.com/ericvoid/sublime-mustang.
